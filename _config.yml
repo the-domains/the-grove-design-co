@@ -1,5 +1,6 @@
-layout_spectrum: 0.2820135816000402
 typography_spectrum: 0.8553142282180488
+content_rating:
+  adult: false
 color:
   brandStrength: 0.15287156798876822
   lightness: 0.34706296492367983
@@ -11,4 +12,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.2820135816000402
+author:
+  name: Andrew Grove
+  email: agrove@truefit.io
 name: The Grove Design Co.
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b555c7a-57f4-4eeb-abc9-ccff5bd64f05.jpg
